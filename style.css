@@ -1,0 +1,125 @@
+
+body{
+    background-image: url(https://barnimages.com/wp-content/uploads/2018/04/20170710-barnimages-005.jpg);
+    background-size: cover;
+}
+
+
+.container
+{
+    width: 400px;
+    height: 640px;
+    background-color: rgb(245, 238, 238);
+    background: rgb(114,188,238);
+    background: linear-gradient(1deg, rgba(66, 163, 228, 0.801) 30%, rgba(100, 181, 239, 0.756) 37%);
+    margin-top:70px;
+    border-radius: 20px 20px 20px;
+    border: solid 4px rgba(71, 71, 71, 0.367);
+
+}
+.map-pin{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.location
+{
+    margin-left: 70px;
+    margin-top: -30px;
+    font-size: 22px;
+    font-weight: 900;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.sun-icon{
+    width: 250px;
+    height: 250px;
+    margin-left: 40px;
+}
+
+.container-2
+{
+    background-color: rgba(255, 255, 255, 0.313);
+    width: 310px;
+    height: 260px;
+    margin-left: 25px;
+    border-radius: 30px 30px 30px;
+    border: solid rgba(244, 245, 248, 0.584) 3px;
+}
+.date{
+    font-size: 19px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+}
+.grades
+{
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+}
+.weather
+{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin-top: -20px;
+}
+
+.wind
+{
+    margin-left: 90px;
+    margin-top: -30px;
+    color: rgb(255, 253, 253);
+    font-family: "Josefin Sans", sans-serif;
+}
+.bi-wind
+{
+    width: 30px;
+    margin-left: 50px;
+    height: 40px;
+  
+}
+.km
+{
+    color: white;
+    margin-left: 150px;
+    margin-top: -40px;
+    font-family: "Josefin Sans", sans-serif;
+}
+.bar
+{
+    background-color: white;
+    width: 1px;
+    height: 65px;
+    border: 1px solid white; 
+    margin-left: 140px;
+    margin-top: -75px;
+}
+.bi.bi-droplet-half
+{
+    margin-bottom:-65px ;
+    margin-left: -30px;
+    height: 40px;
+    width: 20px;
+}
+.humid{
+    margin-left: 85px;
+    margin-top: -10px;
+    color: rgb(255, 253, 253);
+    font-family: "Josefin Sans", sans-serif;
+}
+.percent
+{
+    margin-left: 154px;
+    margin-top: -40px;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+}
